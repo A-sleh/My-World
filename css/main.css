@@ -313,6 +313,7 @@ ul {
 /*start landing*/
 .landing {
     position: relative;
+    margin-top: 90px;
 }
 .landing::before {
     content: '';
